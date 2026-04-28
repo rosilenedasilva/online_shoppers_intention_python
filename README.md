@@ -38,7 +38,7 @@ Key characteristics:
 * Evaluated model performance using standard metrics
 * Explored feature importance and key predictors
 
-## 📓 Notebook
+## Jupyter Notebook
 
 👉 `optimizing_e-commerce_revenue.ipynb`
 
