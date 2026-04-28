@@ -22,6 +22,8 @@ Key characteristics:
 * Pandas
 * NumPy
 * Scikit-learn
+* PySpark
+* PyTorch
 * Matplotlib / Seaborn
 * Jupyter Notebook
 
