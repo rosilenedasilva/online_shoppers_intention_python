@@ -1,14 +1,17 @@
 # 🛒 Online Shoppers' Intention Prediction
 
-## 📊 Business Problem
+📊 Business Problem
+
 How can we predict customer purchase behaviour to optimise revenue?
 
-## 🧠 Solution
-Built machine learning models using PySpark and Python to classify revenue-generating sessions.
+🧠 Solution
 
-## 📈 Results
-- Random Forest achieved highest accuracy
-- Identified key features impacting revenue
+Built machine learning models using PySpark and Python to classify revenue-generating sessions and identify key drivers of purchasing behaviour.
+
+📈 Key Results
+Random Forest achieved the highest accuracy
+Identified key features impacting revenue
+Class imbalance significantly affected model performance
 
 ## 🔍 Project Overview
 
@@ -72,16 +75,8 @@ Key characteristics:
 ├── .gitignore
 ```
 
-🏆 Results
-* Random Forest achieved the best overall performance
-* Neural networks showed potential but required further tuning
-* Class imbalance significantly impacted model performance
-
 ## 📎 Notes
 
 * Dataset included for reproducibility
 * Focus on both analysis and prediction
-  
-📄 Report
-* Full analysis and methodology available here:
-👉 Download Report (PDF)
+
