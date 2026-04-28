@@ -71,6 +71,7 @@ Key characteristics:
 
 * Dataset included for reproducibility
 * Focus on both analysis and prediction
+  
 📄 Report
-Full analysis and methodology available here:
+* Full analysis and methodology available here:
 👉 Download Report (PDF)
