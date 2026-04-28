@@ -62,7 +62,15 @@ Key characteristics:
 ├── .gitignore
 ```
 
+🏆 Results
+* Random Forest achieved the best overall performance
+* Neural networks showed potential but required further tuning
+* Class imbalance significantly impacted model performance
+
 ## 📎 Notes
 
 * Dataset included for reproducibility
 * Focus on both analysis and prediction
+📄 Report
+Full analysis and methodology available here:
+👉 Download Report (PDF)
