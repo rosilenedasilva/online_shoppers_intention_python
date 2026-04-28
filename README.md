@@ -5,7 +5,6 @@
 This project analyses user behaviour on an e-commerce website to predict whether a visitor will make a purchase (**Revenue = True/False**).
 The analysis combines exploratory data analysis (EDA) and machine learning to identify patterns and key factors influencing purchasing decisions.
 
---- //----
 
 ## 📊 Dataset
 
@@ -22,7 +21,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
   * Bounce rates and exit rates
   * Traffic source and visitor type
 
----
 
 ## 🛠 Tech Stack
 
@@ -33,7 +31,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 * Matplotlib / Seaborn
 * Jupyter Notebook
 
----
 
 ## 📈 Analysis Performed
 
@@ -44,7 +41,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 * Analysed distributions of categorical and numerical features
 * Observed class imbalance (majority non-purchasing users)
 
----
 
 ### 2. Feature Analysis
 
@@ -55,7 +51,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
   * Exit rate
   * Time spent on product-related pages
 
----
 
 ### 3. Machine Learning Model
 
@@ -63,13 +58,11 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 * Evaluated model performance using standard metrics
 * Addressed class imbalance in the dataset
 
----
 
 ## 📓 Notebook
 
 👉 `ecommerce_revenue_prediction.ipynb`
 
----
 
 ## 🚀 Project Highlights
 
@@ -78,7 +71,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 * Built a predictive model for revenue generation
 * Demonstrated practical application of machine learning in e-commerce
 
----
 
 ## 📌 Key Takeaways
 
@@ -86,7 +78,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 * Time spent and engagement significantly influence conversions
 * Machine learning can support decision-making in online retail
 
----
 
 ## 📁 Repository Structure
 
@@ -96,8 +87,6 @@ The dataset used is the **Online Shoppers Purchasing Intention Dataset**, which 
 │   └── online_shoppers_intention.csv
 ├── README.md
 ```
-
----
 
 ## 📎 Notes
 
