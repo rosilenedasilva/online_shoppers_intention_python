@@ -55,7 +55,11 @@ Key characteristics:
 
 ## Jupyter Notebook
 
-👉 `optimizing_e-commerce_revenue.ipynb`
+👉 View Notebook`optimizing_e-commerce_revenue.ipynb`
+
+📄 Report
+
+👉 Download Full Report
 
 ## 🚀 Key Takeaways
 
