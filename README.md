@@ -52,8 +52,10 @@ Key characteristics:
 
 ```bash
 ├── optimizing_e-commerce_revenue.ipynb
-├── online_shoppers_intention.csv
+├── data/
+│   └── online_shoppers_intention.csv
 ├── README.md
+├── .gitignore
 ```
 
 ## 📎 Notes
