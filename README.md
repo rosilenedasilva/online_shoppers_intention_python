@@ -56,6 +56,8 @@ Key characteristics:
 ├── optimizing_e-commerce_revenue.ipynb
 ├── data/
 │   └── online_shoppers_intention.csv
+├── report/
+│   └── optimising-ecommerce-revenue-ml-neural-networks-big-data.pdf
 ├── README.md
 ├── .gitignore
 ```
